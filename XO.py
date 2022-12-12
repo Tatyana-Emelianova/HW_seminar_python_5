@@ -1,5 +1,3 @@
-print("*" * 10, " Игра Крестики-нолики для двух игроков ", "*" * 10)
-
 board = list(range(1,10))
 
 def draw_board(board):
